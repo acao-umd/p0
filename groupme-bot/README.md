@@ -16,7 +16,7 @@ There are three useful flags.
 
 1. When the script is ran, the bot will send the message ```Active```.
 
-2. If the user with the primary sender ID (I am the default) sends the message ```hello bot```, the bot
+2. If the user with the primary sender ID (I am the default) sends the message ```hi bot```, the bot
     will reply with ```hi```.
 
 3. If any user sends the message ```good morning```, the bot will reply with ```good morning```, followed by their
